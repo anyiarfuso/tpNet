@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Educatech.Dominio", "Educatech.Dominio\Educatech.Dominio.csproj", "{151953D6-63FD-429B-91EA-1BE90C9ED880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Educatech.Datos", "Educatech.Datos\Educatech.Datos.csproj", "{E9663F37-57A9-4E6E-A7BC-B6DB92C3F932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151953D6-63FD-429B-91EA-1BE90C9ED880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151953D6-63FD-429B-91EA-1BE90C9ED880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151953D6-63FD-429B-91EA-1BE90C9ED880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151953D6-63FD-429B-91EA-1BE90C9ED880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9663F37-57A9-4E6E-A7BC-B6DB92C3F932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9663F37-57A9-4E6E-A7BC-B6DB92C3F932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9663F37-57A9-4E6E-A7BC-B6DB92C3F932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9663F37-57A9-4E6E-A7BC-B6DB92C3F932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CAC4F5D-B26E-4DA2-B6BE-F57A2B7F3D2B}
+	EndGlobalSection
+EndGlobal
